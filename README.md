@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/codadrija/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/codadrija/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/codadrija/leetcode_solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3853-merge-close-characters](https://github.com/codadrija/leetcode_solutions/tree/master/3853-merge-close-characters) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codadrija/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3853-merge-close-characters](https://github.com/codadrija/leetcode_solutions/tree/master/3853-merge-close-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/codadrija/leetcode_solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
+## Simulation
+|  |
+| ------- |
+| [3853-merge-close-characters](https://github.com/codadrija/leetcode_solutions/tree/master/3853-merge-close-characters) |
 <!---LeetCode Topics End-->
